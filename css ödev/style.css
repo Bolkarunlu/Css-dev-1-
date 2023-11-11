@@ -1,0 +1,60 @@
+.navbar {
+    font-family: 'Raleway', sans-serif;                             
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+
+.navbar a {
+    color:black;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 8px 20px;   
+    font-size: 20px;
+}
+
+
+.container {
+    position: absolute;
+    left: 40%;
+}
+
+.heading {
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+}
+
+.heading p {
+    padding: 20px;
+}
+
+.title {
+    width: 60%;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.image img{
+    width: 20%;
+    padding: 20px;
+}
+
+.btn {
+    width: 200px;
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.head {
+    text-align: center;
+}
